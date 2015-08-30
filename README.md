@@ -9,11 +9,12 @@ If you need help, you can contact the organizer at steven@dockyard.com.
 UXDC is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of attendees in any form. Attendees violating these rules may be sanctioned or expelled from the event and/or UXDC community at large per the discretion of the organizers.
 
 Harassment includes, but is not limited to:
-* Verbal comments that reinforce social structures of domination (related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion)
+* Any aggressive behavior or commentary related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion.
 * Sexual images in public spaces
 * Deliberate intimidation, stalking, or following 
 * Harassing photography or recording
 * Inappropriate physical contact
+* Sustained disruption of talks or other events
 * Unwelcome sexual attention
 * Advocating for, or encouraging, any of the above behavior
 
