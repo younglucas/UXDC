@@ -18,7 +18,7 @@ Harassment includes, but is not limited to:
 * Unwelcome sexual attention
 * Advocating for, or encouraging, any of the above behavior
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. You can make a report by contacting Steven Trevathan at the event or, if you cannot find an event organizer or are not comfortable contacting an event organizer in person, you can alternatively email steven@makemodel.co.
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. You can make a report by contacting Steven Trevathan at the event or, if you cannot find an event organizer or are not comfortable contacting an event organizer in person, you can alternatively email luke.miller@natgeo.com
 
 ## Credits
 This Code of Conduct was adapted from [UX Happy Hour Portland](https://github.com/uxhappyhour-portland/codeofconduct), which was in turn adapted from the works of [PDX Python](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/), [Women Who Code](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md), and the example policy set in the [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment).
