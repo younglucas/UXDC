@@ -3,7 +3,7 @@
 ## Short version
 UXDC attendees, organizers, and sponsors are required to adhere to our Code of Conduct. We expect cooperation from all participants to ensure a safe environment for everyone.
 
-If you need help, you can contact the organizer at steven@makemodel.co.
+If you need help, you can contact the organizer at luke.miller@natgeo.com
 
 ## Long version
 UXDC is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of attendees in any form. Attendees violating these rules may be sanctioned or expelled from the event and/or UXDC community at large per the discretion of the organizers.
